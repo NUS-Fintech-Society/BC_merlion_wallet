@@ -16,8 +16,12 @@
   },
   "dependencies": {
     "@expo/vector-icons": "^14.0.2",
-    "@react-navigation/native": "^6.0.2",
+    "@react-native-picker/picker": "2.7.5",
+    "@react-navigation/native": "^6.1.18",
+    "@react-navigation/stack": "^6.4.1",
     "expo": "~51.0.28",
+    "expo-barcode-scanner": "~13.0.1",
+    "expo-clipboard": "~6.0.3",
     "expo-constants": "~16.0.2",
     "expo-font": "~12.0.9",
     "expo-linking": "~6.3.1",
