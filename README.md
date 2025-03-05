@@ -2,6 +2,18 @@
 
 Smart Wallet supporting authentication via SingPass.
 
+
+## 🔐 Start Mockpass 
+`MOCKPASS_PORT=5156 SHOW_LOGIN_PAGE=true MOCKPASS_NRIC=S8979373D npx @opengovsg/mockpass@latest`
+
+## Start Server
+1. `npm install`
+2. `node index.js`
+
+## Start Frontend
+1. `npm install`
+2. `npm run dev`
+
 ## Feature Set
 1. Authenticate via SingPass
 2. Verify whether a smart account / address has authenticated via SingPass

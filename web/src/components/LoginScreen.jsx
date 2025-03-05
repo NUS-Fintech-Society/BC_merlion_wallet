@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { useAuth } from "../components/AuthProvider"; // Adjust path as needed
+import { useAuth } from "./AuthProvider"; // Adjust path as needed
 
 const BACKEND_URL = "http://localhost:3000";
 
